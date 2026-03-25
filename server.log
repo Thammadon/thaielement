@@ -1,0 +1,6 @@
+✅ DB initialized at /home/claude/thaielement/thaielement.db
+🌿 ThaiElement Server running at http://localhost:5055
+ * Serving Flask app 'server'
+ * Debug mode: off
+Address already in use
+Port 5055 is in use by another program. Either identify and stop that program, or start the server with a different port.
